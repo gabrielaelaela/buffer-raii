@@ -1,0 +1,5 @@
+/home/gabriela/study/cxx/Buffer/build/CMakeFiles/Buffer.dir
+/home/gabriela/study/cxx/Buffer/build/CMakeFiles/buffer.dir
+/home/gabriela/study/cxx/Buffer/build/CMakeFiles/buffer_view.dir
+/home/gabriela/study/cxx/Buffer/build/CMakeFiles/edit_cache.dir
+/home/gabriela/study/cxx/Buffer/build/CMakeFiles/rebuild_cache.dir

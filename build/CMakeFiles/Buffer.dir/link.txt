@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Buffer.dir/main.cpp.o -o Buffer  libbuffer.a libbuffer_view.a 

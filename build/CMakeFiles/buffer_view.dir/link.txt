@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbuffer_view.a CMakeFiles/buffer_view.dir/buffer_view.cpp.o
+/usr/bin/ranlib libbuffer_view.a
