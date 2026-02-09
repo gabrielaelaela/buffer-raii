@@ -1,6 +1,7 @@
 # Buffer
 
-## Задание
+## Task
 
-В программах на C++ иногда приходится взаимодействовать с библиотеками, написанными на C, и с системными вызовами ОС, обертки над которыми также почти всегда написаны на C. API на языке C часто работает с нетипизированными буферами в памяти (парой из указателя на буфер void *, и размера буфера size_t). Ваша задача в этой работе - написать RAII-обертку над таким буфером.
-В интерфейсах необходимо расставить const, explicit или noexcept там, где это имеет смысл. В остальном менять интерфейсы нельзя.
+In C++ programs, it is sometimes necessary to interact with libraries written in C and with operating system system calls, whose wrappers are also almost always written in C. APIs in the C language often work with untyped memory buffers (a pair consisting of a `void *` pointer to the buffer and a `size_t` buffer size). Your task in this assignment is to write an RAII wrapper around such a buffer.
+
+In the interfaces, you must place `const`, `explicit`, or `noexcept` where appropriate. Apart from that, the interfaces must not be changed.
